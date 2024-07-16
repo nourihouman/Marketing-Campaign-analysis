@@ -238,7 +238,11 @@ Best-Performing Products: Identified top-selling product categories.
 ## Conclusions
 
 This analysis provides a detailed understanding of customer behavior, allowing for targeted marketing strategies. The insights gained can improve campaign effectiveness, product recommendations, and customer retention efforts.
-Getting Started
+
+## Getting Started
+
 Prerequisites
+
 Python 3.6+
+
 Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, mlxtend, networkx
